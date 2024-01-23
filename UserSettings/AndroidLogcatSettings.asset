@@ -1,0 +1,149 @@
+{
+    "m_SelectedDeviceId": "758bbd9e",
+    "m_SelectedPackage": {
+        "deviceId": "758bbd9e",
+        "name": "com.DefaultCompany.com.unity.template.mobile2D",
+        "processId": 18791,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "KPSDU18831023941",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 25969,
+            "exited": true
+        },
+        {
+            "deviceId": "KPSDU18831023941",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 6611,
+            "exited": true
+        },
+        {
+            "deviceId": "KPSDU18831023941",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 10510,
+            "exited": true
+        },
+        {
+            "deviceId": "KPSDU18831023941",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 11854,
+            "exited": true
+        },
+        {
+            "deviceId": "KPSDU18831023941",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 27286,
+            "exited": true
+        },
+        {
+            "deviceId": "KPSDU18831023941",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 6541,
+            "exited": false
+        },
+        {
+            "deviceId": "758bbd9e",
+            "name": "com.miui.home",
+            "processId": 2957,
+            "exited": false
+        },
+        {
+            "deviceId": "758bbd9e",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 32149,
+            "exited": true
+        },
+        {
+            "deviceId": "758bbd9e",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 8849,
+            "exited": true
+        },
+        {
+            "deviceId": "758bbd9e",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 17121,
+            "exited": true
+        },
+        {
+            "deviceId": "758bbd9e",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18661,
+            "exited": true
+        },
+        {
+            "deviceId": "758bbd9e",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 20701,
+            "exited": true
+        },
+        {
+            "deviceId": "758bbd9e",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 13179,
+            "exited": false
+        },
+        {
+            "deviceId": "758bbd9e",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 18791,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

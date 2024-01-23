@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f28edbc9-f60c-4763-a6cb-b0a8424ca198" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Taller-VI-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Taller-VI-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.6.11/Runtime/Behaviours/CinemachineConfiner.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="25B3vPecQspHPOL94uZ4wZlHNUq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f28edbc9-f60c-4763-a6cb-b0a8424ca198" name="Changes" comment="" />
+      <created>1644986887436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644986887436</updated>
+      <workItem from="1644986891746" duration="26000" />
+      <workItem from="1645017384713" duration="39000" />
+      <workItem from="1645017771253" duration="2743000" />
+      <workItem from="1645020561712" duration="1467000" />
+      <workItem from="1645050118692" duration="5483000" />
+      <workItem from="1645055821201" duration="3474000" />
+      <workItem from="1645064662466" duration="945000" />
+      <workItem from="1645136934312" duration="278000" />
+      <workItem from="1645487421465" duration="2113000" />
+      <workItem from="1645579426626" duration="12773000" />
+      <workItem from="1645592340764" duration="37000" />
+      <workItem from="1645620893539" duration="126000" />
+      <workItem from="1645642687840" duration="1831000" />
+      <workItem from="1645659332019" duration="4993000" />
+      <workItem from="1645720332486" duration="615000" />
+      <workItem from="1645729507126" duration="1251000" />
+      <workItem from="1645743236247" duration="240000" />
+      <workItem from="1645891263453" duration="2416000" />
+      <workItem from="1645902431651" duration="14985000" />
+      <workItem from="1646079344486" duration="7160000" />
+      <workItem from="1646097326348" duration="417000" />
+      <workItem from="1646245841457" duration="4566000" />
+      <workItem from="1646317429246" duration="143000" />
+      <workItem from="1646860173377" duration="599000" />
+      <workItem from="1646863876622" duration="3039000" />
+      <workItem from="1647383307659" duration="1982000" />
+      <workItem from="1647455895099" duration="9481000" />
+      <workItem from="1647465774107" duration="1639000" />
+      <workItem from="1647532181453" duration="4459000" />
+      <workItem from="1647551070259" duration="11000000" />
+      <workItem from="1647723204737" duration="3545000" />
+      <workItem from="1647786403413" duration="3306000" />
+      <workItem from="1647808748300" duration="790000" />
+      <workItem from="1647822886344" duration="562000" />
+      <workItem from="1647824714718" duration="568000" />
+      <workItem from="1648693100529" duration="2369000" />
+      <workItem from="1649017131440" duration="6456000" />
+      <workItem from="1649084260950" duration="2246000" />
+      <workItem from="1649115741065" duration="2007000" />
+      <workItem from="1649160167514" duration="762000" />
+      <workItem from="1650052709980" duration="595000" />
+      <workItem from="1650054902947" duration="3488000" />
+      <workItem from="1650062778846" duration="13000" />
+      <workItem from="1650065731922" duration="1460000" />
+      <workItem from="1650329766180" duration="688000" />
+      <workItem from="1650676227993" duration="6663000" />
+      <workItem from="1650724370247" duration="7085000" />
+      <workItem from="1650732491636" duration="1401000" />
+      <workItem from="1650734473423" duration="491000" />
+      <workItem from="1650735127722" duration="1000" />
+      <workItem from="1650814813891" duration="4398000" />
+      <workItem from="1650831265703" duration="6526000" />
+      <workItem from="1651257416902" duration="10770000" />
+      <workItem from="1651431659222" duration="13873000" />
+      <workItem from="1651516599526" duration="1346000" />
+      <workItem from="1651532834071" duration="3290000" />
+      <workItem from="1651714759202" duration="1380000" />
+      <workItem from="1652559766033" duration="860000" />
+      <workItem from="1652563572853" duration="4092000" />
+      <workItem from="1652581235153" duration="5824000" />
+      <workItem from="1652658509723" duration="917000" />
+      <workItem from="1652713772333" duration="10814000" />
+      <workItem from="1652729663589" duration="1525000" />
+      <workItem from="1652732805233" duration="2657000" />
+      <workItem from="1652736301515" duration="1243000" />
+      <workItem from="1652826947136" duration="1189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

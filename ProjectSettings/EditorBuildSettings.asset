@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cinematic Narrative.unity
+    guid: 763df8bcea97f634a88a98f8966fa48b
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 4feb4f6a3644efb4f9298917836f332c
+  - enabled: 1
+    path: Assets/Scenes/Cinematic 1.unity
+    guid: 4123cc255f9b8df499397c348a5486fe
+  - enabled: 1
+    path: Assets/Scenes/Cinematic 2.unity
+    guid: 6e24359b8f58a5c4291ce82cd7ab8fde
+  - enabled: 1
+    path: Assets/Scenes/Cinematic 3.unity
+    guid: 51c13d67a8cdeae4fa999ad79d8541aa
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 88a630024ea19724790efc76d16b713b
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 32c31495306b1204fb8b9d242f2eb188
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 3d644ce0e77d7dc4b9b04a3ac66f991d
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: a70c48da05606cd45bb4c601f45b6666
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 1eaa8578c04bbbc40b751ad949c1cc7a
+  - enabled: 1
+    path: Assets/Scenes/Lost.unity
+    guid: 5abcdbdbca664844792e25dafc60b45f
+  m_configObjects: {}
