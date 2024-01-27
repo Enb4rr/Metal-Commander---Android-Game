@@ -15,4 +15,6 @@ Metal Commander's core is divided into two essential parts. The strategic compon
 ### A* Pathfinding:
 ![](https://github.com/Enb4rr/Metal-Commander---Android-Game/blob/main/Gifs/Clip1MetalCommander-.gif)
 ### Turn-based Combat:
+![](https://github.com/Enb4rr/Metal-Commander---Android-Game/blob/main/Gifs/Clip2MetalCommander.gif)
 ### Game Controls:
+![](https://github.com/Enb4rr/Metal-Commander---Android-Game/blob/main/Gifs/Clip3MetalCommander.gif)
