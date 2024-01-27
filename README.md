@@ -13,5 +13,6 @@ Mobile, strategy, role-playing, pixel-art.
 Metal Commander's core is divided into two essential parts. The strategic component is marked by the movement mechanic, developed using the A* pathfinding algorithm, and the classic turn-based combat system of Fire Emblem RPG games. On the other hand, the other component lies in the story, developed chapter by chapter, featuring compelling characters.
 
 ### A* Pathfinding:
+![](https://github.com/Enb4rr/Metal-Commander---Android-Game/blob/main/Gifs/Clip1MetalCommander-.gif)
 ### Turn-based Combat:
 ### Game Controls:
